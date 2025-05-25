@@ -25,14 +25,8 @@ Gaze tracking & emotion analysis adjust content pace/style dynamically.
 🎧 Simplified, Multi-Modal Lessons
 AI-generated audio, visuals, and gamified quizzes enhance engagement.
 
-😌 Emotion-Aware Mode Switching
-Detects boredom/confusion/fatigue and switches learning modes accordingly.
-
 📊 Insightful Dashboards
 Parents and teachers can track focus, progress, and cognitive metrics weekly.
-
-🕹️ Gamified Confidence Booster
-Uses adaptive difficulty and encouragement to build self-esteem and motivation.
 
 🛠️ Tech Stack
 Component	Technology Used
@@ -58,8 +52,6 @@ Feedback Loop: Micro-assessments to boost engagement
 
 Real-Time Dashboards: Tracks learner metrics for educators/parents
 
-📸 UI Designs
-You can view the Figma design prototype here: Figma Design Link (replace with actual link if available)
 
 📈 Feasibility & Market Potential
 🔧 Technical Feasibility
