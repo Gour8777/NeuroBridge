@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701813741399",
+    "project_id": "neurobridge-2d085",
+    "storage_bucket": "neurobridge-2d085.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701813741399:android:80c9009dd03d2dce10d012",
+        "android_client_info": {
+          "package_name": "com.example.udaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXhIdoytuSDfZy7PAZWfVtnjrTM1DFW8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
